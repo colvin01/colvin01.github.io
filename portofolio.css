@@ -1,0 +1,129 @@
+﻿    body
+    {
+        background-color: steelblue;
+        margin: 10px;
+        font-family: Verdana;
+    }
+
+    p
+    {
+        font-size: 12pt;
+        text-align: justify;
+        color: black;
+        padding: 5px;
+    }
+
+    h1
+    {
+        margin-top: 100px;
+    }
+
+    #SNES_left
+    {
+        margin-top: -50px;
+        margin-right: 510px;
+        margin-left: 510px;
+    }
+
+    #SNES_right 
+    {
+        margin-top: -52px;
+        margin-right: 950px;
+        margin-left: 950px;
+        
+    }
+
+    #my_profile
+    {
+        margin-top: 10px;
+        margin-right: 610px;
+        margin-left: 610px;
+    }
+
+    #tittle
+    {
+        font-size: 30pt;
+        text-align: center;
+    }
+
+    #blog_tittle 
+    {
+        font-size: 30pt;
+        text-align: center;
+    }
+
+    #project_tittle 
+    {
+        font-size: 30pt;
+        text-align: center;
+    }
+
+    #about_tittle 
+    {
+        font-size: 30pt;
+        text-align: center;
+    }
+
+    #blog 
+    {
+        background-color: lightsteelblue;
+        position: absolute;
+        left: 10px;
+        top: 65px;
+        width: 35px;
+        border: 1px solid #000;
+        padding: 10px;
+    }
+
+    #projects 
+    {
+        background-color: lightsteelblue;
+        position: absolute;
+        margin-left: 59px;
+        margin-right: 59px;
+        top: 65px;
+        padding: 10px;
+        border: 1px solid #000;
+    }
+
+    #about 
+    {
+        background-color: lightsteelblue;
+        position: absolute;
+        margin-left: 147px;
+        margin-right: 147px;
+        top: 65px;
+        width: 50px;
+        border: 1px solid #000;
+        padding: 10px;
+    }
+
+    #return 
+    {
+        background-color: lightsteelblue;
+        position: absolute;
+        left: 10px;
+        top: 65px;
+        width: 53px;
+        border: 1px solid #000;
+        padding: 10px;
+    }
+
+    #intro
+    {
+        margin-top: 70px;
+    }
+
+    #GameTest 
+    {
+        padding: 10px;
+    }
+
+   footer
+   {
+       height: 15px;
+       background-color: dimgray;
+       padding: 10px;
+       font-size: 10pt;
+       color: aliceblue;
+   }
